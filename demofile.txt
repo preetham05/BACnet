@@ -1,0 +1,5 @@
+Appended line 55
+Appended line 23 
+ The value read is 55
+The value read is 55
+str(today) The value read is 55

@@ -1,0 +1,10 @@
+[BACpypes]
+objectName: Appracent3
+address: 192.168.0.20/24
+objectIdentifier: 2
+maxApduLengthAccepted: 1024
+segmentationSupported: segmentedBoth
+vendorIdentifier: 15
+foreignBBMD: 172.16.0.20
+foreignTTL: 30
+

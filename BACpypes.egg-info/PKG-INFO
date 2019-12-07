@@ -1,0 +1,23 @@
+Metadata-Version: 1.1
+Name: BACpypes
+Version: 0.12.1
+Summary: BACnet Python Library
+Home-page: http://bacpypes.sourceforge.net/
+Author: Joel Bender
+Author-email: joel@carrickbender.com
+License: UNKNOWN
+Description: BACpypes provides a BACnet application layer and network layer written in
+        Python for daemons, scripting, and graphical interfaces.
+        
+        This project has moved to GitHub.
+        
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Topic :: System :: Networking
+Classifier: Topic :: Utilities
